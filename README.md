@@ -1,0 +1,1 @@
+How to change the value of System.in, without using data input from the console.
